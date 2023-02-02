@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\PracticaUno\PracticaUno\bin\Debug\PracticaUno.exe.config
+C:\Users\PC\Desktop\PracticaUno\PracticaUno\bin\Debug\PracticaUno.exe
+C:\Users\PC\Desktop\PracticaUno\PracticaUno\bin\Debug\PracticaUno.pdb
+C:\Users\PC\Desktop\PracticaUno\PracticaUno\obj\Debug\PracticaUno.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PracticaUno\PracticaUno\obj\Debug\PracticaUno.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\PracticaUno\PracticaUno\obj\Debug\PracticaUno.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PracticaUno\PracticaUno\obj\Debug\PracticaUno.exe
+C:\Users\PC\Desktop\PracticaUno\PracticaUno\obj\Debug\PracticaUno.pdb
