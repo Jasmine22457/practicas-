@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\GitHub\practicas-\PracticaZapatos\PracticaZapatos\bin\Debug\PracticaZapatos.exe.config
+C:\Users\PC\Documents\GitHub\practicas-\PracticaZapatos\PracticaZapatos\bin\Debug\PracticaZapatos.exe
+C:\Users\PC\Documents\GitHub\practicas-\PracticaZapatos\PracticaZapatos\bin\Debug\PracticaZapatos.pdb
+C:\Users\PC\Documents\GitHub\practicas-\PracticaZapatos\PracticaZapatos\obj\Debug\PracticaZapatos.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\practicas-\PracticaZapatos\PracticaZapatos\obj\Debug\PracticaZapatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\GitHub\practicas-\PracticaZapatos\PracticaZapatos\obj\Debug\PracticaZapatos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\practicas-\PracticaZapatos\PracticaZapatos\obj\Debug\PracticaZapatos.exe
+C:\Users\PC\Documents\GitHub\practicas-\PracticaZapatos\PracticaZapatos\obj\Debug\PracticaZapatos.pdb
