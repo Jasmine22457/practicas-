@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\GitHub\practicas-\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\PC\Documents\GitHub\practicas-\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\PC\Documents\GitHub\practicas-\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\PC\Documents\GitHub\practicas-\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\practicas-\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\GitHub\practicas-\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\practicas-\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\PC\Documents\GitHub\practicas-\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
